@@ -1,0 +1,24 @@
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Alarm/AlarmFlowViews.swift":
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AlarmFlowViews.swiftconstvalues"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AlarmFlowViews.dia"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AlarmFlowViews.swiftdeps"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AlarmFlowViews.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AlarmFlowViews.d"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Groups/CreateGroupView.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/CreateGroupView.swiftdeps"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/CreateGroupView.d"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/CreateGroupView.swiftconstvalues"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/CreateGroupView.dia"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/CreateGroupView.o"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Core/Models/WakeHistorySummary.swift":
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeHistorySummary.swiftconstvalues"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeHistorySummary.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeHistorySummary.d"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeHistorySummary.swiftdeps"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeHistorySummary.dia"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Auth/AuthEntryView.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AuthEntryView.swiftdeps"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AuthEntryView.swiftconstvalues"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AuthEntryView.d"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AuthEntryView.dia"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AuthEntryView.o"

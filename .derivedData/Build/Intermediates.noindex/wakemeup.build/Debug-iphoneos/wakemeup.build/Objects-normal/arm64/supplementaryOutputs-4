@@ -1,0 +1,24 @@
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Groups/InviteShareView.swift":
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/InviteShareView.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/InviteShareView.d"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/InviteShareView.swiftdeps"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/InviteShareView.swiftconstvalues"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/InviteShareView.dia"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Groups/GroupsHomeView.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/GroupsHomeView.swiftdeps"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/GroupsHomeView.swiftconstvalues"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/GroupsHomeView.dia"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/GroupsHomeView.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/GroupsHomeView.d"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Groups/MissionPickerView.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MissionPickerView.swiftdeps"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MissionPickerView.dia"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MissionPickerView.o"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MissionPickerView.swiftconstvalues"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MissionPickerView.d"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Features/Groups/JoinGroupView.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/JoinGroupView.swiftdeps"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/JoinGroupView.o"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/JoinGroupView.dia"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/JoinGroupView.d"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/JoinGroupView.swiftconstvalues"

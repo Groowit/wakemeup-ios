@@ -1,0 +1,18 @@
+"/Users/yeayoung/Project/wakemeup/wakemeup/Root/WakeTabBarVisibility.swift":
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeTabBarVisibility.dia"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeTabBarVisibility.swiftconstvalues"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeTabBarVisibility.d"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeTabBarVisibility.o"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeTabBarVisibility.swiftdeps"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Root/MainTabContainerView.swift":
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MainTabContainerView.d"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MainTabContainerView.dia"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MainTabContainerView.o"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MainTabContainerView.swiftdeps"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MainTabContainerView.swiftconstvalues"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Root/RootView.swift":
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/RootView.swiftconstvalues"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/RootView.swiftdeps"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/RootView.dia"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/RootView.d"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/RootView.o"

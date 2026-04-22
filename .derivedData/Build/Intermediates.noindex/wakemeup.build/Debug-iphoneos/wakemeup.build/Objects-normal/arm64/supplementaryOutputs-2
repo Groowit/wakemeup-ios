@@ -1,0 +1,24 @@
+"/Users/yeayoung/Project/wakemeup/wakemeup/Core/Models/MockData.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MockData.swiftdeps"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MockData.swiftconstvalues"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MockData.d"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MockData.dia"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/MockData.o"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Core/Models/UserProfile.swift":
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/UserProfile.swiftconstvalues"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/UserProfile.swiftdeps"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/UserProfile.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/UserProfile.d"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/UserProfile.dia"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Core/Models/WakeGroup.swift":
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeGroup.swiftconstvalues"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeGroup.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeGroup.d"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeGroup.dia"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeGroup.swiftdeps"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Core/Models/OnboardingPage.swift":
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/OnboardingPage.swiftdeps"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/OnboardingPage.swiftconstvalues"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/OnboardingPage.o"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/OnboardingPage.dia"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/OnboardingPage.d"

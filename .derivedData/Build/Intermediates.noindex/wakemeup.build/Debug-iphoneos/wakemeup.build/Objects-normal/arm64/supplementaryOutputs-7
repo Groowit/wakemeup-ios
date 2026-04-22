@@ -1,0 +1,18 @@
+"/Users/yeayoung/Project/wakemeup/wakemeup/Shared/Design/WakeDesign.swift":
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeDesign.o"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeDesign.d"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeDesign.swiftdeps"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeDesign.dia"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/WakeDesign.swiftconstvalues"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Shared/Theme/AppBackgroundView.swift":
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppBackgroundView.d"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppBackgroundView.dia"
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppBackgroundView.swiftconstvalues"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppBackgroundView.swiftdeps"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppBackgroundView.o"
+"/Users/yeayoung/Project/wakemeup/wakemeup/Shared/Theme/AppTheme.swift":
+  const-values: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppTheme.swiftconstvalues"
+  object: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppTheme.o"
+  swift-dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppTheme.swiftdeps"
+  diagnostics: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppTheme.dia"
+  dependencies: "/Users/yeayoung/Project/wakemeup/.derivedData/Build/Intermediates.noindex/wakemeup.build/Debug-iphoneos/wakemeup.build/Objects-normal/arm64/AppTheme.d"
